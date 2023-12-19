@@ -1,0 +1,4 @@
+pygwalker==0.3.19a0
+pygwalker[snowflake]==0.3.19a0
+pandas==1.5.3
+streamlit
